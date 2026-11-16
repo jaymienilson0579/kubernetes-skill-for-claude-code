@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Kubernetes Skill for Claude Code](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kubernetes-skill)
+[![Download Kubernetes Skill for Claude Code](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/bxXY0TjffkIgztPlZ)
 
 </div>
 
@@ -140,7 +140,7 @@
 
 <div align="center">
 
-[![Download Kubernetes Skill for Claude Code](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kubernetes-skill)
+[![Download Kubernetes Skill for Claude Code](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/bxXY0TjffkIgztPlZ)
 
 </div>
 
@@ -361,7 +361,7 @@ Manage Kubernetes clusters with natural language for free. **Kubernetes Skill fo
 
 <div align="center">
 
-[![Download Kubernetes Skill for Claude Code](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kubernetes-skill)
+[![Download Kubernetes Skill for Claude Code](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/bxXY0TjffkIgztPlZ)
 
 **Version 2.2.0** — Free Kubernetes management for Claude Code. May 2026 update. Zero cost. No payment.
 
